@@ -12,7 +12,7 @@ Bu vizyonun ürünü **P2M ERP**’dir.
 P2M ERP’nin en önemli hedeflerinden biri:  
 👉 **Tüm e-ticaret ve ERP sistemini tek platformda toplamak.**  
 
-- İşletmeler **Ürünlerinizi tek merkezden** yönetecek  
+- İşletmeler **stoklarını tek merkezden** yönetecek  
 - Satışlarını gerçek zamanlı takip edebilecek  
 - Muhasebe, fatura, kasa, şube yönetimi ve e-ticaret süreçleri entegre olacak  
 - Yapay zekâ destekli raporlar sayesinde işletmeler **daha hızlı ve doğru kararlar** alabilecek  
@@ -28,8 +28,7 @@ Sonuç: **İşletmeleri hızlandırmak, maliyetlerini düşürmek ve geleceğe t
 - 📑 **E-Fatura & E-Arşiv** – Modern entegrasyon, mevzuata uygun fatura süreçleri  
 - 📊 **Raporlama & Analitik** – Yapay zekâ destekli satış, gider, kâr/zarar raporları  
 - 📱 **Mobil Uygulama** – React Native ile şube yöneticileri ve saha ekipleri için raporlar  
-- 🌐 **E-Ticaret Entegrasyonu** – Online satış kanalları ile tam entegre
--  Detaylı Menü Yapısı İçin Aşağı Bakabilirsiniz   
+- 🌐 **E-Ticaret Entegrasyonu** – Online satış kanalları ile tam entegre  
 
 ---
 
@@ -333,3 +332,54 @@ Sonuç: **İşletmeleri hızlandırmak, maliyetlerini düşürmek ve geleceğe t
   - 💰 Fatura KDV Raporu  
   - 💱 KDV Alış Satış Raporu  
   - 📅 Fatura Vade Raporu  
+
+
+---
+
+## 💰 Finans
+
+### 💵 Kasa
+- ⚙️ Kasa Ayarları  
+- 💸 Kasa Ödemesi  
+- 💰 Kasa Tahsilatı  
+- 🔄 Kasa Devir Fişi  
+
+### 🏦 Banka
+- ⚙️ Banka Ayarları  
+- 💸 Banka Ödemesi  
+- 💰 Banka Tahsilatı  
+- 🔄 Banka Devir Fişi  
+- 💳 Kredi Kart Ödemeleri Devir Fişi  
+- 💳 Kredi Kart Ödemeleri  
+- 💳 Kredi Kart Tahsilatları  
+- 🏧 Banka POS Bloke Fişleri  
+
+### 📑 Çek
+- 🧾 Müşteri Çek Bordroları  
+- 🧾 Çek Bordroları  
+- 🧾 Çek Makbuzları  
+
+### 🔄 Diğer İşlemler
+- 🔀 Virman İşlemi  
+- 👨‍💼 Personel Maaşları Hakediş  
+- 💵 Personel Maaşları Ödeme  
+
+### 💸 Masraf
+- 🧾 Masraf Fişleri  
+- 🏢 Masraf Fişleri (Firma)  
+- ↩️ Masraf Fişleri İade  
+- ↩️ Masraf Fişleri Firma İade  
+
+### 📊 Finans Raporları
+- 💵 Kasa Raporları  
+  - 📑 Kasa Raporu  
+- 🏦 Banka Raporları  
+  - 📑 Banka Raporu  
+  - 💳 Kredi Kart Ödeme Raporu  
+  - 💳 Kredi Kart Hareketleri Raporu  
+  - 🏧 Banka Kesinti Raporu  
+- 🧾 Çek Raporları  
+  - 📑 Çek Raporu  
+  - ❌ Ödenmeyen Çek Raporu  
+- 💸 Genel Masraf Raporu  
+- 🏢
