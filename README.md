@@ -1,15 +1,15 @@
-# 🚀 P2M ERP – Tüm İşletme Yönetimi Tek Çatıda
+# 🚀 VERİX ERP – Tüm İşletme Yönetimi Tek Çatıda
 
-![P2M Logo](#) <!-- Buraya logo linki gelecek -->
+![VERİX Logo](#) <!-- Buraya logo linki gelecek -->
 
 Merhaba, ben **Hüseyin**.  
 Benim vizyonum: **Yapay zekâ destekli, ölçeklenebilir ve tüm ERP + E-Ticaret süreçlerini tek çatı altında toplayan bir yazılım ekosistemi geliştirmek.**  
-Bu vizyonun ürünü **P2M ERP**’dir.  
+Bu vizyonun ürünü **VERİX ERP**’dir.  
 
 ---
 
 ## 🎯 Ana Hedefimiz
-P2M ERP’nin en önemli hedeflerinden biri:  
+VERİX ERP’nin en önemli hedeflerinden biri:  
 👉 **Tüm e-ticaret ve ERP sistemini tek platformda toplamak.**  
 
 - İşletmeler **stoklarını tek merkezden** yönetecek  
@@ -21,7 +21,7 @@ Sonuç: **İşletmeleri hızlandırmak, maliyetlerini düşürmek ve geleceğe t
 
 ---
 
-## ⚡ P2M ERP Modülleri
+## ⚡ VERİX ERP Modülleri
 - 🏬 **Şube Yönetimi** – 1000+ şubelik yapılarda merkez & şube senkronizasyonu  
 - 💳 **POS & Satış Modülü** – Hızlı kasa satış, şube POS sistemleri, ödeme yöntemleri  
 - 📦 **Stok Yönetimi** – Anlık stok takibi, merkez & şube depoları  
@@ -47,7 +47,7 @@ Sonuç: **İşletmeleri hızlandırmak, maliyetlerini düşürmek ve geleceğe t
 
 ---
 
-# 📂 P2M ERP – Modüller & Menüler
+# 📂 VERİX ERP – Modüller & Menüler
 
 ## ⚙️ Ayarlar
 - 🏢 Firma  
