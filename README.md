@@ -1,6 +1,6 @@
 # 🚀 VERİX ERP – Tüm İşletme Yönetimi Tek Çatıda
 
-![VERİX Logo](#) <!-- Buraya logo linki gelecek -->
+https://resimyukle.app/a/hPnmR48E<!-- Buraya logo linki gelecek -->
 
 Merhaba, ben **Hüseyin**.  
 Benim vizyonum: **Yapay zekâ destekli, ölçeklenebilir ve tüm ERP + E-Ticaret süreçlerini tek çatı altında toplayan bir yazılım ekosistemi geliştirmek.**  
