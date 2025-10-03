@@ -1,6 +1,8 @@
 # 🚀 VERİX ERP – Tüm İşletme Yönetimi Tek Çatıda
 
-![VERİX Logo](https://resimyukle.app/a/hPnmR48E) <!-- Buraya logo linki gelecek -->
+<p align="center">
+  <img src="https://resimyukle.app/a/hPnmR48E" alt="VERİX Logo" width="200"/>
+</p>
 
 
 Merhaba, ben **Hüseyin**.  
